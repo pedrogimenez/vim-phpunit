@@ -22,6 +22,7 @@ map <Leader>la :call RunAllTests()<CR>
 Inside vim:
 
 > Press Leader + l to run the current test file.
+
 > Press Leader + la to run all the test files.
 
 Enjoy :heart:
